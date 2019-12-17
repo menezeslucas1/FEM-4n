@@ -1,0 +1,3 @@
+nosx, nosy, tipoMalha, limInfx, limSupx, limInfy, limSupy, cc
+51    51    0          0.0      1.0      0.0      1.0      2
+
